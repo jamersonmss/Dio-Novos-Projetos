@@ -8,7 +8,7 @@
 **Repositório criado para os projetos desenvolvidos ou melhorados do GitHub** da [Digital Innovation One](https://github.com/digitalinnovationone).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://www.dio.me/) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/trabalhando-com-minimals-apis/learning/c86cc323-99ba-4867-b2ed-596061eb3aa6?back=/track/coding-the-future-xp-full-stack-developer)
+[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://www.dio.me/)
 
 
 ## Objetivo
